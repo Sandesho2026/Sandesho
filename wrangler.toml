@@ -5,7 +5,7 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "sandesho-db"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "db3b6113-f76c-4caf-a689-ed669e247e36"
 
 [ai]
 binding = "AI"
