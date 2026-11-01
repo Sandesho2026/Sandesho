@@ -1,4 +1,4 @@
-// Sandesho / संदेसो — Marwari news site on Cloudflare Workers + D1 + Workers AI
+// Sandesho / संदेशो — Marwari news site on Cloudflare Workers + D1 + Workers AI
 const MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast"; // change here if Cloudflare retires it
 const CATS = { marwar: "मारवाड़", rajasthan: "राजस्थान", national: "देस", world: "दुनिया", agri: "खेती-बाड़ी", sports: "खेल" };
 const LOCAL_KW = /नागौर|जोधपुर|मारवाड़|मेड़ता|डीडवाना|लाडनूं|फलोदी|कुचामन|Nagaur|Jodhpur|Marwar|Merta|Didwana|Ladnun|Phalodi|Kuchaman/i;
